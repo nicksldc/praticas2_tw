@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "João Silva",
+      "email": "joao@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Souza",
+      "email": "maria@example.com"
+    }
+  ]
+}
