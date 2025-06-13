@@ -15,8 +15,3 @@ Aplicação web desenvolvida com React para cadastro e listagem de itens, utiliz
 - Node.js (v18+)
 - npm (v9+)
 
-### Instalação
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/projeto-react.git
-cd projeto-react
